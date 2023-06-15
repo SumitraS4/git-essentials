@@ -1,3 +1,5 @@
-# New changes for README.md file
+# Git essential/ Git for Everybody
 
-We have deleted all old content and added new content to it.
+This is test to teach the pull request topic
+
+Course learned by Sumitra
