@@ -1,4 +1,4 @@
-This is my first push using nano editor.
+This is my first push file which was used with nano editor.
 Thank you!
 
 This is my second edit done on this text file
