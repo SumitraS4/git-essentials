@@ -1,2 +1,4 @@
-This is a new branch file used to create for the new-branch
+This is a new branch file used to create for the main and new-branch.
+
+Both can use this file now.
 
